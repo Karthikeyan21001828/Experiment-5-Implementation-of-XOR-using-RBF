@@ -105,7 +105,7 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 ## RESULT:
 
-
+Thus Implementation of XOR problem using Radial Basis Function executed successfully.
 
 
 
